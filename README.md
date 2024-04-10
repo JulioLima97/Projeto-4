@@ -49,6 +49,5 @@ A tabela `plans`(dados sobre os planos):
   
 ## Bibliotecas
 - pandas
-- matplotlib
 - numpy
 - scipy
