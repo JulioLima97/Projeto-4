@@ -51,3 +51,5 @@ A tabela `plans`(dados sobre os planos):
 - pandas
 - numpy
 - scipy
+
+Nota: Este projeto foi desenvolvido com base na orientação que recebi para aprimorar meu raciocínio lógico enquanto aluno. Como resultado, mantive incluso todas as ordens solicitadas relacionadas à orientação para realização dos cálculos necessários.
