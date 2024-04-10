@@ -46,3 +46,9 @@ A tabela `plans`(dados sobre os planos):
 - `usd_per_minute`: preço por minuto depois de exceder o limite do pacote (por exemplo, se o pacote inclui 100 minutos, o primeiro minuto excedente será cobrado)
 - `usd_per_message`: preço por mensagem de texto depois de exceder o limite do pacote
 - `usd_per_gb`: preço por gigabyte extra de dados após exceder o limite do pacote (1 GB = 1024 megabytes)
+  
+## Bibliotecas
+- pandas
+- matplotlib
+- numpy
+- scipy
