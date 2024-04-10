@@ -48,3 +48,5 @@ The `plans` table (data about plans):
 - pandas
 - numpy
 - scipy
+
+Note: This project was developed based on the guidance I received to improve my logical reasoning as a student. As a result, I kept all requested orders related to guidance on carrying out the necessary calculations.
