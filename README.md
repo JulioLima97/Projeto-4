@@ -19,8 +19,8 @@ A tabela `users` (dados sobre usuários):
 - `churn_date`: a data que o usuário parou de usar o serviço (se o valor for ausente, o plano estava sendo usado quando esse dado foi gerado)
 - `city`: cidade de residência do usuário
 - `plan`: nome do plano
+  
 A tabela `calls` (dados sobre as chamadas)  
-
 - `id`: identificador de chamada unívoco
 - `call_date`: data da chamada
 - `duration`: duração da chamada (em minutos)
