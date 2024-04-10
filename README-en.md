@@ -46,6 +46,5 @@ The `plans` table (data about plans):
 
 ## Libraries
 - pandas
-- matplotlib
 - numpy
 - scipy
